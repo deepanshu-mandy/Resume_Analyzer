@@ -49,19 +49,6 @@ The application sends the extracted resume content to Gemini and generates a str
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
-### Resume Analysis
-
-![Resume Analysis](screenshots/analysis.png)
-
----
 
 ## 🧠 AI Analysis
 
